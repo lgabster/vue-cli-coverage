@@ -13,6 +13,8 @@ node_modules
 .nyc_output
 coverage
 
+cypress/videos
+
 # Log files
 npm-debug.log*
 yarn-debug.log*

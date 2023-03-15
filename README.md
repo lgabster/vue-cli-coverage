@@ -25,6 +25,21 @@ pnpm run test:unit
 pnpm run test:e2e
 ```
 
+### Run cypress e2e tests with coverage
+```
+pnpm cy:run
+```
+
+### Run cypress component tests with coverage
+```
+pnpm cy:run-component
+```
+
+### Open coverage report
+```
+pnpm coverage
+```
+
 ### Lints and fixes files
 ```
 pnpm run lint
